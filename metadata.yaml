@@ -1,0 +1,27 @@
+_repo: Woman-on-the-American-Frontier-A-Valuable-and-Authentic-History-of-the-Heroism-Adventures-Priv__6808
+creator:
+  author:
+    agent_name: Fowler, William Worthington
+    alias: Fowler, William W. (William Worthington)
+    birthdate: 1833
+    deathdate: 1881
+    gutenberg_agent_id: '2200'
+    url: http://www.gutenberg.org/2009/agents/2200
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6808'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States'
+- !lcsh 'Women -- United States -- Biography'
+- !lcc 'E151'
+title: "Woman on the American Frontier\r\nA Valuable and Authentic History of the\
+  \ Heroism, Adventures, Privations, Captivities, Trials, and Noble Lives and Deaths\
+  \ of the \"Pioneer Mothers of the Republic\""
+url: http://www.gutenberg.org/ebooks/6808
