@@ -1,4 +1,8 @@
 _repo: Woman-on-the-American-Frontier-A-Valuable-and-Authentic-History-of-the-Heroism-Adventures-Priv__6808
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fowler, William Worthington
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2200'
     url: http://www.gutenberg.org/2009/agents/2200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6808#Woman-on-the-American-Frontier-A-Valuable-and-Authentic-History-of-the-Heroism-Adventures-Priv_
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
